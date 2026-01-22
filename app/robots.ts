@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: "/",
       },
     ],
-    sitemap: "https://your-domain.com/sitemap.xml",
+    sitemap: "https://alisteraugustine.vercel.app/sitemap.xml",
   };
 }
